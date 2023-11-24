@@ -1,0 +1,122 @@
+[
+	{
+		"file": "E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\Source\\FPSRoguelike\\FPSRoguelike.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\.vscode\\compileCommands_Default\\FPSRoguelike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\Source\\FPSRoguelike\\FPSRoguelike.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\.vscode\\compileCommands_Default\\FPSRoguelike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\Source\\FPSRoguelike\\FPSRoguelike.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\.vscode\\compileCommands_Default\\FPSRoguelike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\Source\\FPSRoguelike\\FPSRoguelikeCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\.vscode\\compileCommands_Default\\FPSRoguelike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\Source\\FPSRoguelike\\FPSRoguelikeCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\.vscode\\compileCommands_Default\\FPSRoguelike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\Source\\FPSRoguelike\\FPSRoguelikeGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\.vscode\\compileCommands_Default\\FPSRoguelike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\Source\\FPSRoguelike\\FPSRoguelikeGameMode.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\.vscode\\compileCommands_Default\\FPSRoguelike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\Source\\FPSRoguelike\\FPSRoguelikePlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\.vscode\\compileCommands_Default\\FPSRoguelike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\Source\\FPSRoguelike\\FPSRoguelikePlayerController.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\.vscode\\compileCommands_Default\\FPSRoguelike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\Source\\FPSRoguelike\\FPSRoguelikeProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\.vscode\\compileCommands_Default\\FPSRoguelike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\Source\\FPSRoguelike\\FPSRoguelikeProjectile.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\.vscode\\compileCommands_Default\\FPSRoguelike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\Source\\FPSRoguelike\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\.vscode\\compileCommands_Default\\FPSRoguelike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\Source\\FPSRoguelike\\TP_PickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\.vscode\\compileCommands_Default\\FPSRoguelike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\Source\\FPSRoguelike\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\.vscode\\compileCommands_Default\\FPSRoguelike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\Source\\FPSRoguelike\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Portfolio Projects\\FPS roguelike\\FPSRoguelike\\.vscode\\compileCommands_Default\\FPSRoguelike.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
